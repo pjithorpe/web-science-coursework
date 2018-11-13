@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# don't add credentials or stored tweets to the repo
+.json
+.csv
